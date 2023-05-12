@@ -1,4 +1,63 @@
-# eu 
-meu nome é thiago horn martins 
+# <!DOCTYPE html>
+<html lang="pt-br">
 
-estou apenas estudando!
+<head>
+	<meta charset=”UTF-8”>
+	<title>one piece</title>
+	<link rel="stylesheet" href="reset.css">
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="imagem">
+<<img src="caminhao.jpeg" alt="">
+<<h1 class="titulo"> </h1>
+</div>
+
+<div class="imagem">
+<<img src="batcarr.jpeg" alt="">
+<<h1 class="titulo"> </h1>
+</div>
+
+<div class="imagem">
+<<img src="corro2.jpeg" alt="">
+<<h1 class="titulo"> </h1>
+</div>
+
+<div class="imagem">
+<<img src="komb.jpeg" alt="">
+<<h1 class="titulo"> </h1>
+</div>
+
+<div class="imagem">
+<<img src="mota2.jpeg" alt="">
+<<h1 class="titulo"> </h1>
+</div>
+
+<div class="imagem">
+<<img src="moto1.jpeg" alt="">
+<<h1 class="titulo"> </h1>
+</div>
+
+<div class="imagem">
+<<img src="fuca.jpeg" alt="">
+<<h1 class="titulo"> </h1>
+</div>
+
+<div class="imagem">
+<<img src="kart.jpeg" alt="">
+<<h1 class="titulo"> </h1>
+</div>
+
+<div class="imagem">
+<<img src="uno.jpeg" alt="">
+<<h1 class="titulo"> </h1>
+</div>
+
+
+
+
+
+
+
+</body>
